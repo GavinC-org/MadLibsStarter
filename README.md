@@ -19,6 +19,7 @@ Be careful! **Make sure your prompts and variables match up with how you use the
 *   Print statements
     *   At least one `print()` statement that outputs on multiple lines (ie. uses `"\n"`)
     *   At least one `print()` statement that concatenates (“adds”) two strings together (eg. `"Hello " + "world"`)
+    *   At least one f-string or `.format()` that correctly inserts the variables.
 
 # Sample Run
 
